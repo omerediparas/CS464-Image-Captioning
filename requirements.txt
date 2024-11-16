@@ -1,14 +1,12 @@
-# this file is for deployment purposes
-torch
-torchvision
+torch==2.0.0
+torchvision==0.15.1
 torchaudio
-torchtext
+torchtext==0.15.1
 transformers
 datasets
-numpy
 Pillow
+numpy
+opencv-python-headless
 tqdm
-opencv-python-headless  # For using OpenCV in environments without a display
 requests
-git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
-git+https://github.com/ultralytics/yolov5
+fsspec==2024.9.0

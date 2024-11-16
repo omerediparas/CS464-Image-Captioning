@@ -3,5 +3,3 @@ Image Captioning using Pretrained Feature Extraction with LSTM and Transformer A
 
 TODO
 - 
-- understand every bits of the code
-- cache
